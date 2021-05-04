@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
 
 import time
 import pandas as pd
@@ -203,17 +198,6 @@ def main():
             restart = input('\nWould you like to restart? Enter yes or no.\n').lower()
 if __name__ == "__main__":
     main()
-
-
-# ![image-2.png](attachment:image-2.png)
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
