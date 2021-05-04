@@ -58,7 +58,7 @@ You will learn about bike share use in Chicago, New York City, and Washington by
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
 
 ## The Files
-the three city dataset files:
+a zip file (data files.zip) that contains the three city dataset files:
 
 * chicago.csv
 
